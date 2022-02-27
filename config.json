@@ -1,7 +1,12 @@
-/* 
-
-  This is a placeholder file. You can generate this file using this page:
-  
-  https://cloud.google.com/docs/authentication/getting-started
-  
- */
+{
+  "type": "service_account",
+  "project_id": "unicom-309203",
+  "private_key_id": "d6140802cfb18667fece5bf1bb11a68f30dd9a3c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQqxT6oX5AsfOW\nIgxPtbd1UFoPdmKfXxP770P2NbLHIjjRroAXP9A0mMXUXNnxNtmbYW2strkqu3AY\ne8tjYDbFkSAndcyrmQFJ6ZGdf9d2ZeDOvT9jgNoBq7mjih/P2vvTniTrYw8ItpjH\n86tgnP5Kd2ZdWWNFOxYWmFvWqKCCMdDBdBc5mPamfuvidEI2/7CJlZUfb976OgrE\no1WjxU+bhg5gO9jCSx52T78ItxHKDBeYpl+XNAYXZVEe0MEb8Tm6veM5oYHzyafE\nEGxmIevk5/icZlClnBZa6llcBPFn5IHGgJIMRZebvp8Rra7X+Crjqm1C7/R4eX/H\n9+lVBq0/AgMBAAECggEABqdrSqy1/nEjlTDZF1JHmzLolEqloshg4O1Edl2dqaed\nNo6BINH/nSsWpTV1cQbbPI8ISh7PhnMmBBnae/ztnNzfsMfFst51AeWJUljpHCpB\nLMaFzByn7Fq3V5Ay1dQj/fUH31uwId/UvQziSk6R9fpFu4n7Vjyn8SjYRjQ9Xg69\nhXL0t4dK4csPAa9mhB0vqIrTpesy5+jKwZCl873CxMhkDTze47W1CW9yOZ9OpHEH\nYJYhhzZUc2klYlE2QOg8dK5aU2UzTzuSlyaqQutEMlyi7uiaK/KRPOVtJyI1qXjz\nWJTGCCptBXQkURrGx0DjuWHHxCP3YpDuA1CmVZAuUQKBgQDwZn0Go2fvObk2VSTe\n5a6KXy7ymcmzOFj3hupRkbfKTZZit/j8CzvlpfF771mwTD4VaePaGAoU+UenghIB\n/qQlLC0CZqM3pntKAHJ2zCOwYEHr4WhEG4PWKyAfp3xlQIFDSup59e9JLz3mS0oc\npcOFn/67o5ZbiqlRZ05iG0VEsQKBgQDeNXaQjtcq22pe6orWA8BIUIUdDRGaQe0p\naQmTlxmlk8gAY7uwz2d+AftdxlkfSq6HQyzV5RlyKPcpgSai7OUy0vFyTP94PzFG\nN5dVtg/mGd8Tv4U8Y58eV0Z+USnm8XmPl8Q90vK2j82TkRIQKTjqUeE/gUoEQOOw\ngGO/WCdM7wKBgQCf2AWZvF0HO6Ji9gomCyIa718QACGVAQpmy1ZSFknWQfCUgy8S\np4WUFNqURXmlN4ywQFA4W3OYroduYZYHrYEHFnB3ADfWcOPZOKLjSqkQRXCPnrjt\nUD5A0Tvy0DJuQI2yaMWvgk8wojDOR5FnqvBukQuXSBZZl8EtVztPEELmgQKBgQDd\nTpPqP0kO1v5mz+M8aPn9S6x3lYd9gcFpJ8Kw6qFRZhCgSrQo0Tf6qJCoAZ7Lan7O\nGloyIX0pVKFtBcLsK1HOP4bW1tbs9MrnawBfDfdhrUyeh3V0Aqf7+OItdjpsVv1B\nxN5e0JSIvEn7eVVrIRMdVDUpIWQNPm9GX2h4rpxdowKBgAYQw0UXNllSE6lNzxuy\niFFvj9NxuNhnQ5hWyIm50UeSU86PWjVaweubmxXyoPquXUKDQlBd2k+M1JtMjOBy\nSdJDEUCRTGK86sdmoNmhG/VwrOKFfh982baP1E7i+OS58SqT+Gzf1eY5C87oNFoj\ndawNnMwKsW3kyMe0Scm2dCmr\n-----END PRIVATE KEY-----\n",
+  "client_email": "manychat-df-integration@unicom-309203.iam.gserviceaccount.com",
+  "client_id": "114365723885840649484",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/manychat-df-integration%40unicom-309203.iam.gserviceaccount.com"
+}
